@@ -7,5 +7,4 @@ The upcoming forecast section contains a 5-day forecast that displays the date, 
 One issue that still needs to be resolved is the daily forecast showing today's weather when a city is chosen.
 This will be addressed in an upcoming update.
 
-Site link:
-
+Site link: https://rmisu.github.io/weather-dashboard/
