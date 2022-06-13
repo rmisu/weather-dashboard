@@ -8,3 +8,5 @@ One issue that still needs to be resolved is the daily forecast showing today's 
 This will be addressed in an upcoming update.
 
 Site link: https://rmisu.github.io/weather-dashboard/
+
+<img width="1149" alt="Screen Shot 2022-06-12 at 23 53 42" src="https://user-images.githubusercontent.com/104178580/173282306-e6f85d4d-f5e1-4b41-be78-fa85d2c9b39c.png">
